@@ -1,0 +1,27 @@
+{
+  "name": "overhang.js",
+  "homepage": "http://paulkr.github.io/overhang.js",
+  "authors": [
+    "Paul. K <paul@paulkr.com>"
+  ],
+  "description": "A JQuery plugin for notifications, prompts and confirmations",
+  "main": [
+    "lib/overhang.min.js",
+    "lib/overhang.min.css"
+  ],
+  "dependencies": {
+    "jquery"      : ">=1.8"
+  },
+  "keywords": [
+    "alert",
+    "modal"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jsvini/overhang.js.git"
+  },
+  "license": "MIT",
+  "ignore": [
+    "demo"
+  ]
+}
